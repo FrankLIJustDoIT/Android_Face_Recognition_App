@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Selfie Secure</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_new_person">ADD PERSON</string>
+    <string name="title_activity_take_picture">TAKE PICTURE</string>
+    <string name="title_activity_scan">SCAN</string>
+    <string name="insertNewPersonString">ADD NEW PERSON</string>
+    <string name="captureString">CAPTURE</string>
+    <string name="switchString">SWITCH CAMERA</string>
+    <string name="scanPersonString">RECOGNISE PERSON</string>
+    <string name="authorsString">AUTHORS</string>
+    <string name="insertNewBiometricString">INSERT NEW PERSON\'S BIOMETRIC</string>
+</resources>
