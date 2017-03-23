@@ -14,9 +14,6 @@ import org.opencv.core.Mat;
 
 import java.io.ByteArrayOutputStream;
 
-/**
- * Created by Adam on 30/04/2015.
- */
 public class DatabaseOperations extends SQLiteOpenHelper {
 
     public static final int database_version = 1;
