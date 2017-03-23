@@ -31,11 +31,6 @@ public class NewPerson extends Activity {
     private EditText nickname;
     private String[] selectedImagePath;
     private ImageView img;
-
-    /**
-     * ATTENTION: This was auto-generated to implement the App Indexing API.
-     * See https://g.co/AppIndexing/AndroidStudio for more information.
-     */
     private GoogleApiClient client;
 
 
