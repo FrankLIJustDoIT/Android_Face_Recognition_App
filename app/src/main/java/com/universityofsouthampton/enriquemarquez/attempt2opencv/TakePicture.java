@@ -1,8 +1,5 @@
 package com.universityofsouthampton.enriquemarquez.attempt2opencv;
 
-/**
- * Created by Adam on 23/04/2015.
- */
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
