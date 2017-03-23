@@ -2,9 +2,6 @@ package com.universityofsouthampton.enriquemarquez.attempt2opencv;
 
 import android.provider.BaseColumns;
 
-/**
- * Created by Adam on 30/04/2015.
- */
 public class Table {
 
     public Table() {
